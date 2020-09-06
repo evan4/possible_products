@@ -1,0 +1,26 @@
+.possible_products__caption {
+  font-weight: bold;
+}
+
+.categories-tags {
+  margin-top: 10px;
+}
+
+a.categories-tags__link {
+  width: 100%;
+  border: 1px solid #CCC;
+  color: #333;
+  white-space: normal;
+  margin-right: 1px;
+  margin-top: 5px;
+  outline: 0;
+  text-decoration: none;
+  border-radius: 2px;
+  transition: .3s;
+}
+
+a.categories-tags__link:hover {
+  text-decoration: none;
+  background-color: #e8e8e8;
+  border-color: transparent
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+	<name>С этими товарами ищут</name>
+	<code>possible_products</code>
+	<version>1.0.0 for opencart 2.3.x</version>
+	<author>Ivan Dedov</author>
+	<link>https://github.com/evan4/</link>
+</modification>
